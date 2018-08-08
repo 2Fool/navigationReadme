@@ -75,9 +75,9 @@ application/json
 
 ### 返回参数
 
-![togps.png](https://github.com/2Fool/navigationReadme/edit/master/images/togps.png)  
+![togps.png](https://github.com/2Fool/navigationReadme/blob/master/images/togps.png)  
 
-![dilibianma.png](/images/togps.png)
+![dilibianma.png](https://github.com/2Fool/navigationReadme/blob/master/images/togps.png)
 
 ### 返回参数样例
 

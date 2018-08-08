@@ -140,9 +140,9 @@ application/json
 
 ### 返回参数
 
-![nidili_1.png](/images/nidili_1.png)  
-![nidili_2.png](/images/nidili_2.png)  
-![nidili_3.png](/images/nidili_3.png)
+![nidili_1.png](https://github.com/2Fool/navigationReadme/blob/master/images/nidili_1.png)  
+![nidili_2.png](https://github.com/2Fool/navigationReadme/blob/master/images/nidili_2.png)  
+![nidili_3.png](https://github.com/2Fool/navigationReadme/blob/master/images/nidili_3.png)
 
 ### 返回参数样例
 
@@ -229,8 +229,8 @@ application/json
 
 ### 返回参数
 
-![walking.png](/images/walking.png)  
-![walk.png](/images/walk.png)
+![walking.png](https://github.com/2Fool/navigationReadme/blob/master/images/walking.png)  
+![walk.png](https://github.com/2Fool/navigationReadme/blob/master/images/walk.png)
 
 ### 返回参数样例
 
@@ -417,12 +417,12 @@ application/json
 
 ### 返回参数
 
-![bus.png](/images/bus.png)  
-![bus_walking.png](/images/bus_walking.png)  
-![bus_bus.png](/images/bus_bus.png)  
-![bus_exit.png](/images/bus_exit.png)  
-![bus_railway.png](/images/bus_railway.png)  
-![bus_train.png](/images/bus_train.png)
+![bus.png](https://github.com/2Fool/navigationReadme/blob/master/images/bus.png)  
+![bus_walking.png](https://github.com/2Fool/navigationReadme/blob/master/images/bus_walking.png)  
+![bus_bus.png](https://github.com/2Fool/navigationReadme/blob/master/images/bus_bus.png)  
+![bus_exit.png](https://github.com/2Fool/navigationReadme/blob/master/images/bus_exit.png)  
+![bus_railway.png](https://github.com/2Fool/navigationReadme/blob/master/images/bus_railway.png)  
+![bus_train.png](https://github.com/2Fool/navigationReadme/blob/master/images/bus_train.png)
 
 ### 返回参数样例
 
@@ -627,8 +627,8 @@ application/json
 
 ### 返回参数
 
-![driving.png](/images/driving.png)  
-![driving_step.png](/images/driving_step.png)
+![driving.png](https://github.com/2Fool/navigationReadme/blob/master/images/driving.png)  
+![driving_step.png](https://github.com/2Fool/navigationReadme/blob/master/images/driving_step.png)
 
 ### 返回参数样例
 
@@ -730,7 +730,7 @@ application/json
 
 ### 返回参数
 
-![bicycling.png](/images/bicycling.png)
+![bicycling.png](https://github.com/2Fool/navigationReadme/blob/master/images/bicycling.png)
 
 ### 返回参数样例
 
@@ -820,9 +820,9 @@ application/json
 
 ### 返回参数
 
-![truck_1.png](/images/truck_1.png)  
-![truck_2.png](/images/truck_2.png)
-![truck_3.png](/images/truck_3.png)
+![truck_1.png](https://github.com/2Fool/navigationReadme/blob/master/images/truck_1.png)  
+![truck_2.png](https://github.com/2Fool/navigationReadme/blob/master/images/truck_2.png)
+![truck_3.png](https://github.com/2Fool/navigationReadme/blob/master/images/truck_3.png)
 
 ### 返回参数样例
 
@@ -928,7 +928,7 @@ application/json
 
 ### 返回参数
 
-![distance.png](/images/distance.png)
+![distance.png](https://github.com/2Fool/navigationReadme/blob/master/images/distance.png)
 
 ### 返回参数样例
 
@@ -973,9 +973,9 @@ application/json
 ~~~~
 ### 返回参数
 
-![searchwords_1.png](/images/searchwords_1.png)
-![searchwords_2.png](/images/searchwords_2.png)
-![searchwords_3.png](/images/searchwords_3.png)
+![searchwords_1.png](https://github.com/2Fool/navigationReadme/blob/master/images/searchwords_1.png)
+![searchwords_2.png](https://github.com/2Fool/navigationReadme/blob/master/images/searchwords_2.png)
+![searchwords_3.png](https://github.com/2Fool/navigationReadme/blob/master/images/searchwords_3.png)
 
 ### 返回参数样例
 
@@ -1074,9 +1074,9 @@ POI规则详情:
 
 ### 返回参数
 
-![searchwords_1.png](/images/searchwords_1.png)
-![searchwords_2.png](/images/searchwords_2.png)
-![searchwords_3.png](/images/searchwords_3.png)
+![searchwords_1.png](https://github.com/2Fool/navigationReadme/blob/master/images/searchwords_1.png)
+![searchwords_2.png](https://github.com/2Fool/navigationReadme/blob/master/images/searchwords_2.png)
+![searchwords_3.png](https://github.com/2Fool/navigationReadme/blob/master/images/searchwords_3.png)
 
 ## 十三、圆形区域交通态势接口
 
@@ -1105,7 +1105,7 @@ POI规则详情:
 
 ### 返回参数
 
-![status.png](/images/status.png)
+![status.png](https://github.com/2Fool/navigationReadme/blob/master/images/status.png)
 
 ### 返回参数样例
 
@@ -1157,7 +1157,7 @@ POI规则详情:
 
 ### 返回参数
 
-![status.png](/images/status.png)
+![status.png](https://github.com/2Fool/navigationReadme/blob/master/images/status.png)
 
 ### 返回参数样例
 
@@ -1200,7 +1200,7 @@ POI规则详情:
 ~~~~
 
 ### 返回参数
-![togeogps_2.png](/images/togeogps_2.png)
+![togeogps_2.png](https://github.com/2Fool/navigationReadme/blob/master/images/togeogps_2.png)
 返回参数中，";"已被转换为"|"
 
 ### 返回参数样例
